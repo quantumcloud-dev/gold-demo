@@ -132,7 +132,7 @@ h1, h2, h3, h4, h5,
     box-shadow: none !important; }
 
 .site-section {
-  padding: 2.5em 0; }
+  padding: 1em 0; }
   @media (min-width: 768px) {
     .site-section {
       padding: 5em 0; } }
@@ -688,7 +688,7 @@ h1, h2, h3, h4, h5,
     border-width: 2px; }
 
 .site-section {
-  padding: 10em 0; }
+  padding: 6em 0; }
   @media (max-width: 991.98px) {
     .site-section {
       padding: 4em 0; } }
@@ -776,7 +776,7 @@ h1, h2, h3, h4, h5,
       color: rgba(255, 255, 255, 0.55); }
 
 .section-1 {
-  margin-top: 10rem; }
+  margin-top: 2rem; }
 
 .work-thumb {
   position: relative;
@@ -860,8 +860,8 @@ h1, h2, h3, h4, h5,
       background-color: #EA2E68; }
 
 .nonloop-block-13 .owl-stage {
-  padding-top: 3rem;
-  padding-bottom: 3rem; }
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem; }
 
 .nonloop-block-13 .owl-item {
   position: relative;
@@ -915,78 +915,10 @@ h1, h2, h3, h4, h5,
     font-weight: 700;
     margin-bottom: 1.5rem; }
 
-.process {
-  text-align: center;
-  padding: 30px;
-  border: 1px solid #d9d9d9; }
-
-/*SERVICE SECTION*/
-/* 
-.service {
-  padding: 4rem;
-  background: #fff;
-  position: relative;
-  border-radius: 4px;
-  overflow: hidden;
-  top: 0;
-  -webkit-transition: 0.3s all cubic-bezier(0.17, 0.67, 0.52, 0.94);
-  -o-transition: 0.3s all cubic-bezier(0.17, 0.67, 0.52, 0.94);
-  transition: 0.3s all cubic-bezier(0.17, 0.67, 0.52, 0.94); }
-  @media (max-width: 991.98px) {
-    .service {
-      padding: 2rem; } }
-  .service .custom-icon-wrap {
-    width: 80px;
-    height: 80px;
-    display: block;
-    border-radius: 50%;
-    background-color: #fafafa;
-    position: relative;
-    margin-bottom: 1.5rem;
-    -webkit-transition: 0.2s all cubic-bezier(0.17, 0.67, 0.52, 0.94);
-    -o-transition: 0.2s all cubic-bezier(0.17, 0.67, 0.52, 0.94);
-    transition: 0.2s all cubic-bezier(0.17, 0.67, 0.52, 0.94);
-    top: 0; }
-    .service .custom-icon-wrap > span {
-      font-size: 1.8rem;
-      position: absolute;
-      display: inline-block;
-      top: 50%;
-      left: 50%;
-      color: #EA2E68;
-      -webkit-transform: translate(-50%, -50%);
-      -ms-transform: translate(-50%, -50%);
-      transform: translate(-50%, -50%); }
-  .service:before, .service:after {
-    position: absolute;
-    content: "";
-    height: 7px;
-    background: #EA2E68;
-    top: 0;
-    left: 0;
-    width: 100%;
-    -webkit-transition: 0.3s all cubic-bezier(0.17, 0.67, 0.52, 0.94);
-    -o-transition: 0.3s all cubic-bezier(0.17, 0.67, 0.52, 0.94);
-    transition: 0.3s all cubic-bezier(0.17, 0.67, 0.52, 0.94); }
-  .service:before {
-    z-index: 1; }
-  .service:after {
-    background: #EA2E68;
-    width: 0;
-    z-index: 2; }
-  .service:hover {
-    top: -10px;
-    -webkit-box-shadow: 0 4px 30px -5px rgba(0, 0, 0, 0.2);
-    box-shadow: 0 4px 30px -5px rgba(0, 0, 0, 0.2); }
-    .service:hover:after {
-      width: 100%; }
-    .service:hover .custom-icon-wrap {
-      background: rgba(220, 53, 69, 0.1);
-      top: -10px; } */
 
 .nonloop-block-14 .owl-stage {
-  padding-top: 2rem;
-  padding-bottom: 2rem; }
+  padding-top: 1rem;
+  padding-bottom: 1rem; }
 
 .custom-owl-carousel .slide-one-item-alt {
   border-top-left-radius: 200px;
@@ -1050,36 +982,6 @@ h1, h2, h3, h4, h5,
   .slide-one-item-alt-text {
     text-align: center; } }
 
-.video-img-bg {
-  display: block;
-  position: relative; }
-  .video-img-bg .play-button {
-    position: absolute;
-    width: 80px;
-    height: 80px;
-    border-radius: 50%;
-    background: #fff;
-    -webkit-transition: .3s all ease;
-    -o-transition: .3s all ease;
-    transition: .3s all ease;
-    top: 50%;
-    left: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%); }
-    .video-img-bg .play-button > span {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      margin-left: 2px;
-      -webkit-transform: translate(-50%, -50%);
-      -ms-transform: translate(-50%, -50%);
-      transform: translate(-50%, -50%); }
-
-.form-subscribe .btn:hover, .form-subscribe .btn:active, .form-subscribe .btn:focus {
-  background-color: #EA2E68 !important;
-  border-color: #EA2E68 !important;
-  color: #fff; }
 
 /*PRELOADING------------ */
 #overlayer {
