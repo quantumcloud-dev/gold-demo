@@ -687,6 +687,10 @@ h1, h2, h3, h4, h5,
   .intro-section .btn {
     border-width: 2px; }
 
+.intro-section p{
+  color: #fff;
+}
+
 .site-section {
   padding: 6em 0; }
   @media (max-width: 991.98px) {
@@ -1192,3 +1196,4 @@ h1, h2, h3, h4, h5,
 {
  color: white; 
 }
+
